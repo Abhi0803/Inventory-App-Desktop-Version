@@ -1,2 +1,3 @@
-# Inventory App Desktop Version
- This a Basic Windows app or rather source code of the app designed in kivy whcih i was unable to convert to an android or ios app.
+# Inventory Management App Desktop Version
+ This a Basic Inventory Managment App which i made as my first project on kivy.I was unable to convert these file into an android or ios apps
+ 
